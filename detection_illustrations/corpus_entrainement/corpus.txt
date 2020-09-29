@@ -1,0 +1,1 @@
+Le corpus doit être réparti dans deux dossiers "train" et "val" contenant chacun les images et le fichier d'annotations .json
